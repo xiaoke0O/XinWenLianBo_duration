@@ -32,8 +32,8 @@
 
 主播性别，两列
 
-- name            主播名字。格式为：姓-名
+- name             主播名字。格式为：姓-名
 
-- gender          性别。
+- gender           性别。
 
-- birthday        出生日期。from wikipedia
+- birthday         出生日期。from wikipedia
