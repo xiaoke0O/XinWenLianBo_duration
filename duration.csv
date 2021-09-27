@@ -1,2 +1,2 @@
-datetime,duration,extend,anchorA,anchorB
-20210926T190000+08,38,T,Bao-XiaoFeng,Guo-ZhiJian
+year,month,day,start_time,duration,extend,anchorA,anchorB
+2021,09,26,1900,38,T,Bao-XiaoFeng,Guo-ZhiJian

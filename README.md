@@ -16,22 +16,24 @@
 
 播出时长，五列
 
-- datetime 播出时间，符合ISO 8601 标准
+- year, month, day 播出日期
 
-- duration 首播节目的实际长度，单位是分钟
+- start_time       开始时间。（UTC+8）
 
-- extend 与30分钟相比是否有延长，T（True）或F（False）
+- duration         首播节目的实际长度，单位是分钟
 
-- anchorA 屏幕左侧的主播
+- extend           与30分钟相比是否有延长，T（True）或F（False）
 
-- anchorB 屏幕右侧的主播
+- anchorA          屏幕左侧的主播
+
+- anchorB          屏幕右侧的主播
 
 ### anchors
 
 主播性别，两列
 
-- name 主播名字。格式为：姓-名
+- name            主播名字。格式为：姓-名
 
-- gender 性别。
+- gender          性别。
 
-- birthday 出生日期。from wikipedia
+- birthday        出生日期。from wikipedia
