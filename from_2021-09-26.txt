@@ -1,2 +1,0 @@
-date,duration,real
-2021-09-26,38,38
